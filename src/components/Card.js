@@ -143,7 +143,7 @@ const Card = () => {
 
                         </div>
                         <div>
-                            <h4 className="mt-3">Riyad Mollick</h4>
+                            <h4 className="mt-3">Riyad Mollik</h4>
                             <p>Barisal,Bangladesh</p>
                         </div>
 
@@ -152,15 +152,15 @@ const Card = () => {
                     </div>
                     <div className="intro p-3  m-2">
                         <div>
-                            <h5>65kg</h5>
+                            <h5>60kg</h5>
                             <p>weight</p>
                         </div>
                         <div>
-                            <h5>5.5 Feet</h5>
+                            <h5>5.6 Feet</h5>
                             <p>height</p>
                         </div>
                         <div>
-                            <h5>23yrs</h5>
+                            <h5>20yrs</h5>
                             <p>age</p>
                         </div>
                     </div>
